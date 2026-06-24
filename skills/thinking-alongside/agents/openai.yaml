@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thinking Alongside"
+  short_description: "사용자의 잠재된 생각을 앞서지 않고 선명하게 드러냅니다"
+  default_prompt: "Use $thinking-alongside to help me articulate what I am noticing without taking over my thinking."
